@@ -1,0 +1,16 @@
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\bin\Debug\netcoreapp2.0\DomainNotification.Prompt.deps.json
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\bin\Debug\netcoreapp2.0\DomainNotification.Prompt.runtimeconfig.json
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\bin\Debug\netcoreapp2.0\DomainNotification.Prompt.runtimeconfig.dev.json
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\bin\Debug\netcoreapp2.0\DomainNotification.Prompt.dll
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\bin\Debug\netcoreapp2.0\DomainNotification.Prompt.pdb
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\bin\Debug\netcoreapp2.0\DomainNotification.Application.dll
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\bin\Debug\netcoreapp2.0\DomainNotification.Domain.dll
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\bin\Debug\netcoreapp2.0\DomainNotification.Application.pdb
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\bin\Debug\netcoreapp2.0\DomainNotification.Domain.pdb
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\obj\Debug\netcoreapp2.0\DomainNotification.Prompt.csprojResolveAssemblyReference.cache
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\obj\Debug\netcoreapp2.0\DomainNotification.Prompt.csproj.CoreCompileInputs.cache
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\obj\Debug\netcoreapp2.0\DomainNotification.Prompt.AssemblyInfoInputs.cache
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\obj\Debug\netcoreapp2.0\DomainNotification.Prompt.AssemblyInfo.cs
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\obj\Debug\netcoreapp2.0\DomainNotification.Prompt.csproj.CopyComplete
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\obj\Debug\netcoreapp2.0\DomainNotification.Prompt.dll
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Prompt\obj\Debug\netcoreapp2.0\DomainNotification.Prompt.pdb

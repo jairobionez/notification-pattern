@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "DomainNotification.Prompt/1.0.0": {
+        "dependencies": {
+          "DomainNotification.Application": "1.0.0"
+        },
+        "runtime": {
+          "DomainNotification.Prompt.dll": {}
+        }
+      },
+      "DomainNotification.Application/1.0.0": {
+        "dependencies": {
+          "DomainNotification.Domain": "1.0.0"
+        },
+        "runtime": {
+          "DomainNotification.Application.dll": {}
+        }
+      },
+      "DomainNotification.Domain/1.0.0": {
+        "runtime": {
+          "DomainNotification.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DomainNotification.Prompt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DomainNotification.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DomainNotification.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

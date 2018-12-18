@@ -1,0 +1,12 @@
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\bin\Debug\netcoreapp2.0\DomainNotification.Application.deps.json
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\bin\Debug\netcoreapp2.0\DomainNotification.Application.dll
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\bin\Debug\netcoreapp2.0\DomainNotification.Application.pdb
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\bin\Debug\netcoreapp2.0\DomainNotification.Domain.dll
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\bin\Debug\netcoreapp2.0\DomainNotification.Domain.pdb
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\obj\Debug\netcoreapp2.0\DomainNotification.Application.csprojResolveAssemblyReference.cache
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\obj\Debug\netcoreapp2.0\DomainNotification.Application.csproj.CoreCompileInputs.cache
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\obj\Debug\netcoreapp2.0\DomainNotification.Application.AssemblyInfoInputs.cache
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\obj\Debug\netcoreapp2.0\DomainNotification.Application.AssemblyInfo.cs
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\obj\Debug\netcoreapp2.0\DomainNotification.Application.csproj.CopyComplete
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\obj\Debug\netcoreapp2.0\DomainNotification.Application.dll
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Application\obj\Debug\netcoreapp2.0\DomainNotification.Application.pdb

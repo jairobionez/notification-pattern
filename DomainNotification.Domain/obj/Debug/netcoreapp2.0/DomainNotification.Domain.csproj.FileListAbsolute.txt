@@ -1,0 +1,9 @@
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Domain\bin\Debug\netcoreapp2.0\DomainNotification.Domain.deps.json
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Domain\bin\Debug\netcoreapp2.0\DomainNotification.Domain.dll
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Domain\bin\Debug\netcoreapp2.0\DomainNotification.Domain.pdb
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Domain\obj\Debug\netcoreapp2.0\DomainNotification.Domain.csprojResolveAssemblyReference.cache
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Domain\obj\Debug\netcoreapp2.0\DomainNotification.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Domain\obj\Debug\netcoreapp2.0\DomainNotification.Domain.AssemblyInfoInputs.cache
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Domain\obj\Debug\netcoreapp2.0\DomainNotification.Domain.AssemblyInfo.cs
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Domain\obj\Debug\netcoreapp2.0\DomainNotification.Domain.dll
+C:\Users\jairo.bionez\Desktop\Projetos .net core\DomainNotification\DomainNotification.Domain\obj\Debug\netcoreapp2.0\DomainNotification.Domain.pdb
